@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <h3>这是登录页面</h3>
-    <a href="#/outter/register">注册</a>
+    <a href="#/outter/register">注</a>
   </div>
 </template>
 
